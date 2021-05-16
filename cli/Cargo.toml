@@ -1,0 +1,7 @@
+[package]
+name = "voyager_cli"
+version = "0.1.0"
+authors = ["Jin Wei Tan"]
+edition = "2018"
+
+[dependencies]
